@@ -1,5 +1,5 @@
 FROM node:8
-MAINTAINER Aqeel Mohammed
+MAINTAINER Aqeel-Mohammed
 WORKDIR /app
 COPY . .
 RUN npm install
