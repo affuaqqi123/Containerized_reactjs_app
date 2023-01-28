@@ -35,7 +35,7 @@ const App = () => {
         <h1 className="mt0 mb1 tc">Web App</h1>
         <div className="tc ttc">microservices-architect-config-starter</div>
         <div className="tc ttc">Sample Microservice calls</div>
-        <div className="tc ttc">"AQEEL MOHAMMED"</div>
+        <h1><div className="tc ttc">"AQEEL MOHAMMED"</div></h1>
       </header>
       <div className="pt4 pb1 tc">
         Go save the world with JavaScript
